@@ -7,4 +7,8 @@
 }
 </STYLE>
 </HEAD>
-<BODY>Hello world!</BODY></HTML>
+<BODY>
+<P>Hello world!</P>
+<P>Some update</P>
+</BODY>
+</HTML>
