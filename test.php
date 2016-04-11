@@ -6,5 +6,6 @@
 <BODY>
 <P>Hello world</P>
 <P>Some changes</P>
+<P>More lines</P>
 </BODY>
 </HTML>
